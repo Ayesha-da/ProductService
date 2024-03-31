@@ -6,7 +6,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class fakeStoreProductDto {
+public class FakeStoreProductDto {
     private Long id;
     private String title;
     private double price;
